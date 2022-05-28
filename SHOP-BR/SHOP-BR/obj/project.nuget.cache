@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ri+0OJYcTcfJvwVhDOtpQKRkSzCixgEJUpllarql3VbD36qWDFO/ofdACtNemJwMcFgpcM9LJGZUYfdTA78KWg==",
+  "dgSpecHash": "/iXjA8oL17PSAtF77u5FuweyqVELVK7KheX+JrecBhH76SF5lEXQd63XyPrCOgUe4dXr/mQv9WQDojaeImE8sw==",
   "success": true,
   "projectFilePath": "D:\\Desafio-E-commerce\\Desafio-SHOP-BR-Tarcio\\SHOP-BR\\SHOP-BR\\SHOP-BR.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tpfre\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\tpfre\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
     "C:\\Users\\tpfre\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\tpfre\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\tpfre\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

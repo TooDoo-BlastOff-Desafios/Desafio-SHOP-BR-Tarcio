@@ -10,7 +10,6 @@ D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\bin\Debug\net6.0-wi
 D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP-BR.csproj.AssemblyReference.cache
-D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP_BR.Form1.resources
 D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP-BR.csproj.GenerateResource.cache
 D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP-BR.GeneratedMSBuildEditorConfig.editorconfig
 D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP-BR.AssemblyInfoInputs.cache
@@ -22,3 +21,12 @@ D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-wi
 D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP-BR.pdb
 D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP-BR.genruntimeconfig.cache
 D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\ref\SHOP-BR.dll
+D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP_BR.MenuGeral.resources
+D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\bin\Debug\net6.0-windows\Dapper.dll
+D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\bin\Debug\net6.0-windows\Dapper.Contrib.dll
+D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP_BR.Loja.resources
+D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP_BR.Produto.resources
+D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP_BR.Cliente.resources
+D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP_BR.Avaliacao.resources
+D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP_BR.Compra.resources
+D:\Desafio-E-commerce\Desafio-SHOP-BR-Tarcio\SHOP-BR\SHOP-BR\obj\Debug\net6.0-windows\SHOP_BR.Correio.resources
